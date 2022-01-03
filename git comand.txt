@@ -12,5 +12,6 @@ git push -u origin main
 git remote add origin https://github.com/tayeful912/0002prettycss.git
 git branch -M main
 git push -u origin main
+0001first-site
 
 

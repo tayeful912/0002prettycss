@@ -58,6 +58,16 @@ h5{
 
 }
 
+.tab4{
+    border: 5px double whitesmoke;
+    color:red;
+    background-color: whitesmoke;
+    margin: 40px;
+    border-radius: 30px;
+    text-align: center;
+
+}
+
 body{
 
     background-color: rgb(35, 124, 226);
